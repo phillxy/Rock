@@ -1,5 +1,5 @@
 # Rock
-> This websit for entertainment and can be run on any opreating system and it support different browsers 
+> This websit for entertainment and can be run on any opreating system and it supports different browsers.
 # Support 
 > Email    / Dexthfox@gmail.com
 > Behance /  DexthFox 
